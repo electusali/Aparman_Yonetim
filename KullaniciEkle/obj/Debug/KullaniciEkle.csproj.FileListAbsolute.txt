@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\Apartman\KullaniciEkle\bin\Debug\KullaniciEkle.exe.config
+C:\Users\Administrator\source\repos\Apartman\KullaniciEkle\bin\Debug\KullaniciEkle.exe
+C:\Users\Administrator\source\repos\Apartman\KullaniciEkle\bin\Debug\KullaniciEkle.pdb
+C:\Users\Administrator\source\repos\Apartman\KullaniciEkle\obj\Debug\KullaniciEkle.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Apartman\KullaniciEkle\obj\Debug\KullaniciEkle.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Apartman\KullaniciEkle\obj\Debug\KullaniciEkle.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Apartman\KullaniciEkle\obj\Debug\KullaniciEkle.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Apartman\KullaniciEkle\obj\Debug\KullaniciEkle.exe
+C:\Users\Administrator\source\repos\Apartman\KullaniciEkle\obj\Debug\KullaniciEkle.pdb
+C:\Users\Administrator\source\repos\Apartman\KullaniciEkle\obj\Debug\KullaniciEkle.KayitListeleme.resources

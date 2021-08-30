@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\Apartman\KullaniciAidat\bin\Debug\KullaniciAidat.exe.config
+C:\Users\Administrator\source\repos\Apartman\KullaniciAidat\bin\Debug\KullaniciAidat.exe
+C:\Users\Administrator\source\repos\Apartman\KullaniciAidat\bin\Debug\KullaniciAidat.pdb
+C:\Users\Administrator\source\repos\Apartman\KullaniciAidat\obj\Debug\KullaniciAidat.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Apartman\KullaniciAidat\obj\Debug\KullaniciAidat.DaireKisiEkle.resources
+C:\Users\Administrator\source\repos\Apartman\KullaniciAidat\obj\Debug\KullaniciAidat.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Apartman\KullaniciAidat\obj\Debug\KullaniciAidat.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Apartman\KullaniciAidat\obj\Debug\KullaniciAidat.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Apartman\KullaniciAidat\obj\Debug\KullaniciAidat.exe
+C:\Users\Administrator\source\repos\Apartman\KullaniciAidat\obj\Debug\KullaniciAidat.pdb

@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\Apartman\AnaSayfa\bin\Debug\AnaSayfa.exe.config
+C:\Users\Administrator\source\repos\Apartman\AnaSayfa\bin\Debug\AnaSayfa.exe
+C:\Users\Administrator\source\repos\Apartman\AnaSayfa\bin\Debug\AnaSayfa.pdb
+C:\Users\Administrator\source\repos\Apartman\AnaSayfa\obj\Debug\AnaSayfa.Sayfa2.resources
+C:\Users\Administrator\source\repos\Apartman\AnaSayfa\obj\Debug\AnaSayfa.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Apartman\AnaSayfa\obj\Debug\AnaSayfa.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Apartman\AnaSayfa\obj\Debug\AnaSayfa.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Apartman\AnaSayfa\obj\Debug\AnaSayfa.exe
+C:\Users\Administrator\source\repos\Apartman\AnaSayfa\obj\Debug\AnaSayfa.pdb
+C:\Users\Administrator\source\repos\Apartman\AnaSayfa\obj\Debug\AnaSayfa.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Apartman\AnaSayfa\bin\Debug\KullaniciEkle.exe
+C:\Users\Administrator\source\repos\Apartman\AnaSayfa\bin\Debug\KullaniciEkle.pdb
+C:\Users\Administrator\source\repos\Apartman\AnaSayfa\bin\Debug\KullaniciEkle.exe.config
+C:\Users\Administrator\source\repos\Apartman\AnaSayfa\obj\Debug\AnaSayfa.csproj.CopyComplete
+C:\Users\Administrator\source\repos\Apartman\AnaSayfa\bin\Debug\KullaniciAidat.exe
+C:\Users\Administrator\source\repos\Apartman\AnaSayfa\bin\Debug\KullaniciAidat.pdb
+C:\Users\Administrator\source\repos\Apartman\AnaSayfa\bin\Debug\KullaniciAidat.exe.config
